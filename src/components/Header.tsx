@@ -32,7 +32,6 @@ const Header = () => {
               <h1 className="text-xl font-heading font-bold text-foreground">
                 Ndalo Agri Cop
               </h1>
-              <p className="text-xs text-muted-foreground">PTY LTD</p>
             </div>
           </div>
 
